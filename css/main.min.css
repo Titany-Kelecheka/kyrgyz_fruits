@@ -1,3 +1,27 @@
+.btn-fourth {
+  color: white;
+  background-color: #fb9333;
+  max-width: 265px;
+  text-decoration: none;
+  font-weight: 600;
+  line-height: 1.25rem;
+}
+
+.products-title {
+  margin: 0.5rem;
+  text-align: center;
+  font-weight: 700;
+}
+
+.nuts-title {
+  font-weight: 500;
+  text-align: center;
+  margin: 0.5em;
+}
+
+
+
+
 .about-title {
   font-weight: 500;
   text-align: center;
