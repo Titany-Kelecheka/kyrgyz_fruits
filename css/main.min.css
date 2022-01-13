@@ -1,3 +1,16 @@
+.btn-p {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-top: 1.25rem;
+}
+.row {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+
 .btn-fourth {
   color: white;
   background-color: #fb9333;
